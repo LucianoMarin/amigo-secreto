@@ -29,10 +29,11 @@ const mostrarAmigos = () => {
 
 const agregarAmigo = () => {
 
-
+     labelResultado.innerHTML="";
     if (isNaN(inputNombre.value) && inputNombre != "") {
         listaUsuario.push(inputNombre.value);
         mostrarAmigos(listaUsuario);
+    
     } else {
         alert('INGRESO NO VALIDO, RECUEDE INGRESAR UN NOMBRE');
 
