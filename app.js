@@ -46,7 +46,6 @@ const agregarAmigo = () => {
 
 
 
-
 const sortearAmigo = () => {
 
 
@@ -66,7 +65,6 @@ const sortearAmigo = () => {
 
 
     }
-
 
 
 }
