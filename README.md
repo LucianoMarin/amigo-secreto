@@ -1,4 +1,4 @@
-<h1>CHALLENGER AMIGO SECRETRO </h1>
+<h1>CHALLENGER AMIGO SECRETO </h1>
 <label>Primer challenger realizado, para la plataforma alura</label>
 <br>
 <label>El programa permite ingresar nombres, y obtener un resultado random.</label>
