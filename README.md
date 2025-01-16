@@ -35,7 +35,7 @@
 <br>
 <br>
 <label>Mensaje de error si queremos obtener un amigo sin antes haber agredado valores a nuestro vector</label>
-![imagen](https://github.com/user-attachments/assets/30b23342-e6eb-4460-8c8b-d872059d0153)
+<img src="https://github.com/user-attachments/assets/30b23342-e6eb-4460-8c8b-d872059d0153">
 
 
 
