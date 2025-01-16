@@ -24,10 +24,8 @@ const mostrarAmigos = () => {
 
     labelListaAmigo.append(amigos);
 
-
-
-
 }
+
 
 const agregarAmigo = () => {
 
@@ -47,9 +45,6 @@ const agregarAmigo = () => {
 
 
 const sortearAmigo = () => {
-
-
-
 
     if ((listaUsuario.length - 1) < 0) {
         labelResultado.style = "color:red";
