@@ -22,7 +22,7 @@
 
 
 <h1>CAPTURAS FUNCIONAMIENTO: </h1>
-![imagen](https://github.com/user-attachments/assets/479b9d7a-533c-4a0f-98f2-71e23f7b7444)
+<img src="https://github.com/user-attachments/assets/479b9d7a-533c-4a0f-98f2-71e23f7b7444">
 <br>
 <br>
 ![imagen](https://github.com/user-attachments/assets/e2e3fd47-5a58-4ea2-a005-6f0d1b6366a9)
