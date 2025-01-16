@@ -25,13 +25,13 @@
 <img src="https://github.com/user-attachments/assets/479b9d7a-533c-4a0f-98f2-71e23f7b7444">
 <br>
 <br>
-![imagen](https://github.com/user-attachments/assets/e2e3fd47-5a58-4ea2-a005-6f0d1b6366a9)
+<img src="https://github.com/user-attachments/assets/e2e3fd47-5a58-4ea2-a005-6f0d1b6366a9">
 <br>
 <br>
-![imagen](https://github.com/user-attachments/assets/1ec8d4e0-701e-4bb2-b65c-839d1f4765fc)
+<img src="https://github.com/user-attachments/assets/1ec8d4e0-701e-4bb2-b65c-839d1f4765fc">
 <br>
 <br>
-![imagen](https://github.com/user-attachments/assets/a1390ee0-27b4-4975-9935-2349b9f1be46)
+<img src="https://github.com/user-attachments/assets/a1390ee0-27b4-4975-9935-2349b9f1be46">
 <br>
 <br>
 <label>Mensaje de error si queremos obtener un amigo sin antes haber agredado valores a nuestro vector</label>
